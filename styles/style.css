@@ -1,0 +1,12 @@
+
+
+/* Nav Styles */
+nav{
+    display: flex;
+}
+.nav-title {
+  font-family: "Inter Tight Black";
+  font-optical-sizing: auto;
+  font-weight: 34;
+  font-style: normal;
+}
